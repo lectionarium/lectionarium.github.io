@@ -16,10 +16,11 @@ h3 {
 img {
 	width: 300px;
 	border:5px solid yellow;
+	float: left;
 }
 
-img {
-	float: left;
+a {
+	font-size: 40px;
 }
 
 html {
@@ -37,4 +38,3 @@ html {
     font-style: normal;
     font-display: swap;
 }
-
