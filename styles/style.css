@@ -5,11 +5,7 @@ h1 {
   text-align: center;
 }
 
-h2 {
-	text-align: center;
-}
-
-h3 {
+h2, h3, footer {
 	text-align: center;
 }
 
@@ -24,10 +20,6 @@ html {
 	background-color: black;
 }
 
-footer {
-	text-align: center;
-	text-align: bottom;
-}
 
 @font-face {
     font-family: 'UnifrakturMaguntia';
