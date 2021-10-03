@@ -24,6 +24,11 @@ html {
 	background-color: black;
 }
 
+footer {
+	text-align: center;
+	text-align: bottom;
+}
+
 @font-face {
     font-family: 'UnifrakturMaguntia';
     src: url('UnifrakturMaguntia.eot');
